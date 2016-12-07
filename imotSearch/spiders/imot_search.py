@@ -12,17 +12,20 @@ class MySpider(BaseSpider):
     logging.basicConfig(filename='imot.log',level=logging.DEBUG)
     def parse(self, response):
         reload(sys)
-        sys.setdefaultencoding('utf-8')
+
         hxs = HtmlXPathSelector(response)
-        titles = hxs.select("//h3")
+        titlesTags = hxs.xpath("//h3")
+        logging.debug("H3 tag: " + "".join(hxs.xpath("h3/text()").extract()))
         items = []
-        for element in titles:
+        for element in titlesTags:
             item = ImotSearchItem()
-            titles = element.select("a/text()").extract()
-            logging.debug("Titles: " + ",".join(titles))
+            titles = element.xpath("a/text()").extract()
+            for title_text in titles:
+                logging.debug("Title: " + title_text)
+            #sys.setdefaultencoding('utf-8')
             t = ''.join(titles)
             title = t
             item["title"] = title
-            item["link"] = element.select("a/@href").extract()
+            item["link"] = element.xpath("a/@href").extract()
             items.append(item)
         return items

@@ -1,0 +1,779 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items><item><title><value>
+              </value><value>
+                </value><value>
+                  </value><value>
+                    </value><value>
+                      </value><value>
+                        </value><value>Категория:</value><value>
+                      </value><value>
+                    </value><value>
+                    </value><value>
+                      </value><value>
+                        </value><value>Продажби</value><value>Наеми</value><value>
+                      </value><value>
+                    </value><value>
+                  </value><value>
+                </value><value>
+                </value><value>
+                  </value><value>
+                    </value><value>
+                      </value><value>
+                        </value><value>Публикувани през:</value><value>
+                      </value><value>
+                    </value><value>
+                    </value><value>
+                      </value><value>
+                        </value><value>Последните 24 часа</value><value>Последните 3 дни</value><value>Последните 7 дни</value><value>Последните 30 дни</value><value>--Всички--</value><value>
+                      </value><value>
+                    </value><value>
+                  </value><value>
+                </value><value>
+                </value><value>
+                  </value><value>
+                    </value><value>
+                      </value><value>
+                        </value><value>Преглед по видове имоти:</value><value>
+                      </value><value>
+                    </value><value>
+                    </value><value>
+                      </value><value>
+                        </value><value>едностаен апартамент</value><value> </value><value>двустаен апартамент</value><value> </value><value>тристаен апартамент</value><value> </value><value>четиристаен апартамент</value><value> </value><value>многостаен апартамент</value><value> </value><value>мезонет</value><value> </value><value>офис</value><value> </value><value>ателие, таван</value><value> </value><value>етаж от къща</value><value> </value><value>къща</value><value> </value><value>вила</value><value> </value><value>магазин</value><value> </value><value>заведение</value><value> </value><value>склад</value><value> </value><value>гараж</value><value> </value><value>пром. помещение</value><value> </value><value>хотел</value><value> </value><value>парцел</value><value> </value><value>--Всички--</value><value>
+                      </value><value>
+                    </value><value>
+                  </value><value>
+                </value><value>
+              </value><value>
+            </value></title></item><item><title><value>
+              </value><value>
+                </value><value>
+                  </value><value>Недвижими имоти от град София | </value><value>Всички Населени места</value><value>
+                </value><value>
+              </value><value>
+              </value><value>
+                </value><value>
+                  </value><value>7-ми 11-ти километър</value><value> </value><value>Абдовица</value><value> </value><value>Банишора</value><value> </value><value>Белите брези</value><value> </value><value>Бенковски</value><value> </value><value>Борово</value><value> </value><value>Ботунец</value><value> </value><value>Бояна</value><value> </value><value>Бусманци</value><value> </value><value>Бъкстон</value><value> </value><value>Вердикал</value><value> </value><value>Витоша</value><value> </value><value>Враждебна</value><value> </value><value>Връбница 1</value><value> </value><value>Връбница 2</value><value> </value><value>Гео Милев</value><value> </value><value>Гниляне</value><value> </value><value>Горна баня</value><value> </value><value>Горубляне</value><value> </value><value>Гоце Делчев</value><value> </value><value>Димитър Миленков</value><value> </value><value>Докторски паметник</value><value> </value><value>Драгалевци</value><value> </value><value>Дружба 1</value><value> </value><value>Западен парк</value><value> </value><value>Захарна фабрика</value><value> </value><value>Зона Б-18</value><value> </value><value>Иван Вазов</value><value> </value><value>Изток</value><value> </value><value>Илинден</value><value> </value><value>Илиянци</value><value> </value><value>Карпузица</value><value> </value><value>Княжево</value><value> </value><value>Красна поляна 1</value><value> </value><value>Красна поляна 2</value><value> </value><value>Красна поляна 3</value><value> </value><value>Красно село</value><value> </value><value>Кремиковци</value><value> </value><value>Кръстова вада</value><value> </value><value>Кубратово</value><value> </value><value>Кумарица</value><value> </value><value>Курило</value><value> </value><value>Лагера</value><value> </value><value>Левски</value><value> </value><value>Левски В</value><value> </value><value>Лозенец</value><value> </value><value>Люлин - център</value><value> </value><value>Люлин 1</value><value> </value><value>Люлин 10</value><value> </value><value>Люлин 6</value><value> </value><value>Люлин 7</value><value> </value><value>Люлин 8</value><value> </value><value>Люлин 9</value><value> </value><value>Малашевци</value><value> </value><value>Малинова долина</value><value> </value><value>Манастирски ливади</value><value> </value><value>Медицинска академия</value><value> </value><value>Михайлово</value><value> </value><value>Младост 4</value><value> </value><value>Модерно предградие</value><value> </value><value>НПЗ Искър</value><value> </value><value>Надежда 1</value><value> </value><value>Надежда 2</value><value> </value><value>Надежда 3</value><value> </value><value>Надежда 4</value><value> </value><value>Негован</value><value> </value><value>Обеля</value><value> </value><value>Обеля 1</value><value> </value><value>Оборище</value><value> </value><value>Овча купел</value><value> </value><value>Овча купел 1</value><value> </value><value>Овча купел 2</value><value> </value><value>Орландовци</value><value> </value><value>Павлово</value><value> </value><value>Подуяне</value><value> </value><value>Редута</value><value> </value><value>Република</value><value> </value><value>Република 2</value><value> </value><value>Световрачене</value><value> </value><value>Сердика</value><value> </value><value>Сеславци</value><value> </value><value>Симеоново</value><value> </value><value>Славовци</value><value> </value><value>Слатина</value><value> </value><value>Стрелбище</value><value> </value><value>Студентски град</value><value> </value><value>Сухата река</value><value> </value><value>Суходол</value><value> </value><value>Толстой</value><value> </value><value>Требич</value><value> </value><value>Триъгълника</value><value> </value><value>Факултета</value><value> </value><value>Филиповци</value><value> </value><value>Хаджи Димитър</value><value> </value><value>Христо Ботев</value><value> </value><value>Център</value><value> </value><value>Челопечене</value><value> </value><value>Чепинци</value><value> </value><value>Яворов</value><value> </value><value>в.з.Американски колеж</value><value> </value><value>в.з.Беловодски път</value><value> </value><value>в.з.Бояна</value><value> </value><value>в.з.Бункера</value><value> </value><value>в.з.Врана - Герман</value><value> </value><value>в.з.Врана - Лозен</value><value> </value><value>в.з.Горна баня</value><value> </value><value>в.з.Килиите</value><value> </value><value>в.з.Киноцентъра</value><value> </value><value>в.з.Киноцентъра 3 част</value><value> </value><value>в.з.Малинова долина</value><value> </value><value>в.з.Малинова долина - Герена</value><value> </value><value>в.з.Симеоново - Драгалевци</value><value> </value><value>м-т Гърдова глава</value><value> </value><value>м-т Детски град</value><value> </value><value>м-т Мала кория</value><value> </value><value>--Всички--</value><value>
+                </value><value>
+              </value><value>
+            </value></title></item><item><title><value>
+              </value><value>
+                </value><value> </value><value>Списък на обявите - 1 - 20 от 260 Обяви</value><value>Имоти Драгалевци, София </value><value>
+              </value><value>
+            </value></title></item><item><title><value>
+    </value><value>
+      </value><value>
+        
+      </value><value>
+        </value><value>
+          </value><value>
+        </value><value>
+      </value><value>
+      
+      </value><value>
+      </value><value>град София, Драгалевци</value><value>
+      </value><value> 238 000 EUR</value><value>
+      </value><value>КЪЩА</value><value>
+      </value><value>430 кв.м</value><value>
+    </value><value>
+    </value><value>
+      </value><value>
+        </value><value>
+          </value><value>
+            </value><value> ул. Маестро Атанасов, Телефон, ЧУДЕСНА КЪЩА на три етажа  с ЦЕЛОГОДИШЕН ДОСТЪП ПО АСФАЛТОВ ПЪТ  В БЛИЗОСТ ДО ЦЕНТЪРА НА ДРАГАЛЕВЦИ. Функционално разпределение: с ..., тел.: 0893 449782</value><value>
+            </value><value>
+          </value><value>
+          </value><value>
+      </value><value>
+        </value><value>
+          </value><value> </value><value>Добави обявата в моя Бележник</value><value>
+          </value><value> </value><value>Маркиране на обявата</value><value> </value><value>/публикувана днес/</value><value>
+        </value><value>
+      </value><value>
+      </value><value>
+        </value><value>
+      </value><value>
+    </value><value>
+    </value><value>
+  </value></title></item><item><title><value>
+    </value><value>
+      </value><value>
+        
+      </value><value>
+        </value><value>
+          </value><value>
+        </value><value>
+      </value><value>
+      
+      </value><value>
+      </value><value>град София, Драгалевци</value><value>
+      </value><value> 295 000 EUR</value><value>
+      </value><value>КЪЩА</value><value>
+      </value><value>240 кв.м</value><value>
+    </value><value>
+    </value><value>
+      </value><value>
+        </value><value>
+          </value><value>
+            </value><value> 2-ри ет., Лок.отопл., Unique estates предлага на вниманието на клиентите си една нова къща за продажба в кв. Драгалевци, ул. Гена Димитрова. Разпределен ..., тел.: 0882 600 600</value><value>
+            </value><value>
+          </value><value>
+          </value><value>
+      </value><value>
+        </value><value>
+          </value><value> </value><value>Добави обявата в моя Бележник</value><value>
+          </value><value> </value><value>Маркиране на обявата</value><value>
+        </value><value>
+      </value><value>
+      </value><value>
+        </value><value>
+      </value><value>
+    </value><value>
+    </value><value>
+  </value></title></item><item><title><value>
+    </value><value>
+      </value><value>
+        
+      </value><value>
+        </value><value>
+          </value><value>
+        </value><value>
+      </value><value>
+      
+      </value><value>
+      </value><value>град София, Драгалевци</value><value>
+      </value><value> 250 000 EUR</value><value>
+      </value><value>КЪЩА</value><value>
+      </value><value>380 кв.м</value><value>
+    </value><value>
+    </value><value>
+      </value><value>
+        </value><value>
+          </value><value>
+            </value><value> 3-ти ет., Unique estates ексклузивно предлага на вниманието Ви за продажба нова фамилна къща с двор на ул. Петко Стайнов. Мястото е тихо, сл ..., тел.: 0882 600 600</value><value>
+            </value><value>
+          </value><value>
+          </value><value>
+      </value><value>
+        </value><value>
+          </value><value> </value><value>Добави обявата в моя Бележник</value><value>
+          </value><value> </value><value>Маркиране на обявата</value><value>
+        </value><value>
+      </value><value>
+      </value><value>
+        </value><value>
+      </value><value>
+    </value><value>
+    </value><value>
+  </value></title></item><item><title><value>
+    </value><value>
+      </value><value>
+        
+      </value><value>
+        </value><value>
+          </value><value>
+        </value><value>
+      </value><value>
+      
+      </value><value>
+      </value><value>град София, Драгалевци</value><value>
+      </value><value> 159 990 EUR</value><value>
+      </value><value>КЪЩА</value><value>
+      </value><value>180 кв.м</value><value>
+    </value><value>
+    </value><value>
+      </value><value>
+        </value><value>
+          </value><value>
+            </value><value> ул. Лешникова гора, 3-ти ет., Лок.отопл., НАДСТРОЕНА, РЕНОВИРАНА, С НОВ ПОКРИВ, PVC ДОГРАМА И ВЪНШНА ИЗОЛАЦИЯ КЪЩА с  ДВОР, ДО ПАРК ВИТОША с панорамна гледка към планината  ..., тел.: 02/9880605 АЛДЕС</value><value>
+            </value><value>
+          </value><value>
+          </value><value>
+      </value><value>
+        </value><value>
+          </value><value> </value><value>Добави обявата в моя Бележник</value><value>
+          </value><value> </value><value>Маркиране на обявата</value><value>
+        </value><value>
+      </value><value>
+      </value><value>
+        </value><value>
+      </value><value>
+    </value><value>
+    </value><value>
+  </value></title></item><item><title><value>
+    </value><value>
+      </value><value>
+        
+      </value><value>
+        </value><value>
+          </value><value>
+        </value><value>
+      </value><value>
+      
+      </value><value>
+      </value><value>град София, Драгалевци</value><value>
+      </value><value> 185 000 EUR</value><value>
+      </value><value>КЪЩА</value><value>
+      </value><value>286 кв.м</value><value>
+    </value><value>
+    </value><value>
+      </value><value>
+        </value><value>
+          </value><value>
+            </value><value> 2-ри ет., Телефон, Лок.отопл., МАСИВНА И ДОБРЕ ПОДДЪРЖАНА КЪЩА с ОТЛИЧНА ПАНОРАМА и целогодишен достъп. РЗП - 286 кв.м., поддържан и озеленен двор - 720 кв.м. с  ..., тел.: 0899494422 АЛДЕС</value><value>
+            </value><value>
+          </value><value>
+          </value><value>
+      </value><value>
+        </value><value>
+          </value><value> </value><value>Добави обявата в моя Бележник</value><value>
+          </value><value> </value><value>Маркиране на обявата</value><value>
+        </value><value>
+      </value><value>
+      </value><value>
+        </value><value>
+      </value><value>
+    </value><value>
+    </value><value>
+  </value></title></item><item><title><value>
+    </value><value>
+      </value><value>
+        
+      </value><value>
+        </value><value>
+          </value><value>
+        </value><value>
+      </value><value>
+      
+      </value><value>
+      </value><value>град София, Драгалевци</value><value>
+      </value><value> 690 000 EUR</value><value>
+      </value><value>КЪЩА</value><value>
+      </value><value>500 кв.м</value><value>
+    </value><value>
+    </value><value>
+      </value><value>
+        </value><value>
+          </value><value>
+            </value><value> Партер ет., Телефон, Лок.отопл., НАМАЛЕНА ЦЕНА!!! Забележителна къща, построена в края на 2011 г.   Локация: Целогодишно достъпната част на кв.Драгалевци, с бърза  ..., тел.: 0888450539 КОТА</value><value>
+            </value><value>
+          </value><value>
+          </value><value>
+      </value><value>
+        </value><value>
+          </value><value> </value><value>Добави обявата в моя Бележник</value><value>
+          </value><value> </value><value>Маркиране на обявата</value><value>
+        </value><value>
+      </value><value>
+      </value><value>
+        </value><value>
+      </value><value>
+    </value><value>
+    </value><value>
+  </value></title></item><item><title><value>
+    </value><value>
+      </value><value>
+        
+      </value><value>
+        </value><value>
+          </value><value>
+        </value><value>
+      </value><value>
+      
+      </value><value>
+      </value><value>град София, Драгалевци</value><value>
+      </value><value> 160 000 EUR</value><value>
+      </value><value>КЪЩА</value><value>
+      </value><value>180 кв.м</value><value>
+    </value><value>
+    </value><value>
+      </value><value>
+        </value><value>
+          </value><value>
+            </value><value> Партер ет., Лок.отопл., ЕКСКЛУЗИВНА ОФЕРТА. Еднофамилна къща на границата с природен парк 'Витоша' с целогодишен достъп в кв.Драгалевци, ул.Лешникова гора ..., тел.: 02 4428001</value><value>
+            </value><value>
+          </value><value>
+          </value><value>
+      </value><value>
+        </value><value>
+          </value><value> </value><value>Добави обявата в моя Бележник</value><value>
+          </value><value> </value><value>Маркиране на обявата</value><value>
+        </value><value>
+      </value><value>
+      </value><value>
+        </value><value>
+      </value><value>
+    </value><value>
+    </value><value>
+  </value></title></item><item><title><value>
+    </value><value>
+      </value><value>
+        
+      </value><value>
+        </value><value>
+          </value><value>
+        </value><value>
+      </value><value>
+      
+      </value><value>
+      </value><value>град София, Драгалевци</value><value>
+      </value><value> 580 000 EUR</value><value>
+      </value><value>КЪЩА</value><value>
+      </value><value>430 кв.м</value><value>
+    </value><value>
+    </value><value>
+      </value><value>
+        </value><value>
+          </value><value>
+            </value><value> 2-ри ет., ТОП МЯСТО, целогодишен достъп, нова модерна, изключително стилно довършена и обзаведена къща, представлява ниво 1: двоен гараж кот ..., тел.: 0886100882 / 0878</value><value>
+            </value><value>
+          </value><value>
+          </value><value>
+      </value><value>
+        </value><value>
+          </value><value> </value><value>Добави обявата в моя Бележник</value><value>
+          </value><value> </value><value>Маркиране на обявата</value><value>
+        </value><value>
+      </value><value>
+      </value><value>
+        </value><value>
+      </value><value>
+    </value><value>
+    </value><value>
+  </value></title></item><item><title><value>
+    </value><value>
+      </value><value>
+        
+      </value><value>
+        </value><value>
+          </value><value>
+        </value><value>
+      </value><value>
+      
+      </value><value>
+      </value><value>град София, Драгалевци</value><value>
+      </value><value> 389 000 EUR</value><value>
+      </value><value>КЪЩА</value><value>
+      </value><value>320 кв.м</value><value>
+    </value><value>
+    </value><value>
+      </value><value>
+        </value><value>
+          </value><value>
+            </value><value>     Unique Estates има удоволствието да Ви представи тази уютна къща с невероятен двор в кв.Драгалевци. Къщата е строена '70-те го ..., тел.: 0882 600 600</value><value>
+            </value><value>
+          </value><value>
+          </value><value>
+      </value><value>
+        </value><value>
+          </value><value> </value><value>Добави обявата в моя Бележник</value><value>
+          </value><value> </value><value>Маркиране на обявата</value><value>
+        </value><value>
+      </value><value>
+      </value><value>
+        </value><value>
+      </value><value>
+    </value><value>
+    </value><value>
+  </value></title></item><item><title><value>
+    </value><value>
+      </value><value>
+        
+      </value><value>
+        </value><value>
+          </value><value>
+        </value><value>
+      </value><value>
+      
+      </value><value>
+      </value><value>град София, Драгалевци</value><value>
+      </value><value> 319 900 EUR</value><value>
+      </value><value>КЪЩА</value><value>
+      </value><value>466 кв.м</value><value>
+    </value><value>
+    </value><value>
+      </value><value>
+        </value><value>
+          </value><value>
+            </value><value> ул. Захари Зограф, 3-ти ет., Лок.отопл., ЛУКСОЗНА, ЕДНОФАМИЛНА РЕДОВА КЪЩА В ЗАТВОРЕН КОМПЛЕКС В ЕКОЛОГИЧНИЯ РАЙОН  Драгалевци на КОМУНИКАТИВНО МЯСТО С ПЕРФЕКТЕН ЦЕЛОГОДИШ ..., тел.: 02/9803599</value><value>
+            </value><value>
+          </value><value>
+          </value><value>
+      </value><value>
+        </value><value>
+          </value><value> </value><value>Добави обявата в моя Бележник</value><value>
+          </value><value> </value><value>Маркиране на обявата</value><value>
+        </value><value>
+      </value><value>
+      </value><value>
+        </value><value>
+      </value><value>
+    </value><value>
+    </value><value>
+  </value></title></item><item><title><value>
+    </value><value>
+      </value><value>
+        
+      </value><value>
+        </value><value>
+          </value><value> </value><value>
+        </value><value>
+      </value><value>
+      
+      </value><value>
+      </value><value>град София, Драгалевци</value><value>
+      </value><value> 549 000 EUR</value><value>
+      </value><value>КЪЩА</value><value>
+      </value><value>410 кв.м</value><value>
+    </value><value>
+    </value><value>
+      </value><value>
+        </value><value>
+          </value><value>
+            </value><value> Телефон, Лок.отопл., Представяме на вниманието на нашите клиенти триетажна къща с чудесен двор.Целогодишен достъп по асфалтов път.Дворът е с площ от:10 ..., тел.: 0878923289</value><value>
+            </value><value>
+          </value><value>
+          </value><value>
+      </value><value>
+        </value><value>
+          </value><value> </value><value>Добави обявата в моя Бележник</value><value>
+          </value><value> </value><value>Маркиране на обявата</value><value> </value><value>/публикувана днес/</value><value>
+        </value><value>
+      </value><value>
+      </value><value>
+        </value><value>
+      </value><value>
+    </value><value>
+    </value><value>
+  </value></title></item><item><title><value>
+    </value><value>
+      </value><value>
+        
+      </value><value>
+        </value><value>
+          </value><value> </value><value>
+        </value><value>
+      </value><value>
+      
+      </value><value>
+      </value><value>град София, Драгалевци</value><value>
+      </value><value> 325 000 EUR</value><value>
+      </value><value>КЪЩА</value><value>
+      </value><value>310 кв.м</value><value>
+    </value><value>
+    </value><value>
+      </value><value>
+        </value><value>
+          </value><value>
+            </value><value> Просторна хубава къща с  голям двор ,в най-хубавата част на Драгалевци .Имотът е в непосредствена близост до ул.Захари Зограф и ре ..., тел.: 0877 408 406</value><value>
+            </value><value>
+          </value><value>
+          </value><value>
+      </value><value>
+        </value><value>
+          </value><value> </value><value>Добави обявата в моя Бележник</value><value>
+          </value><value> </value><value>Маркиране на обявата</value><value> </value><value>/публикувана вчера/</value><value>
+        </value><value>
+      </value><value>
+      </value><value>
+        </value><value>
+      </value><value>
+    </value><value>
+    </value><value>
+  </value></title></item><item><title><value>
+    </value><value>
+      </value><value>
+        
+      </value><value>
+        </value><value>
+          </value><value> </value><value>
+        </value><value>
+      </value><value>
+      
+      </value><value>
+      </value><value>град София, Драгалевци</value><value>
+      </value><value> 575 000 EUR</value><value>
+      </value><value>КЪЩА</value><value>
+      </value><value>450 кв.м</value><value>
+    </value><value>
+    </value><value>
+      </value><value>
+        </value><value>
+          </value><value>
+            </value><value> 2-ри ет., ОТЛИЧНА КЪЩА. ПРЕКРАСЕН ДВОР. Предлагаме на Вашето внимание великолепна еднофамилна къща в квартал Драгалевци. Достъпът е отличен, ..., тел.: 02/9523851</value><value>
+            </value><value>
+          </value><value>
+          </value><value>
+      </value><value>
+        </value><value>
+          </value><value> </value><value>Добави обявата в моя Бележник</value><value>
+          </value><value> </value><value>Маркиране на обявата</value><value> </value><value>/публикувана вчера/</value><value>
+        </value><value>
+      </value><value>
+      </value><value>
+        </value><value>
+      </value><value>
+    </value><value>
+    </value><value>
+  </value></title></item><item><title><value>
+    </value><value>
+      </value><value>
+        
+      </value><value>
+        </value><value>
+          </value><value> </value><value>
+        </value><value>
+      </value><value>
+      
+      </value><value>
+      </value><value>град София, Драгалевци</value><value>
+      </value><value> 395 000 EUR</value><value>
+      </value><value>КЪЩА</value><value>
+      </value><value>250 кв.м</value><value>
+    </value><value>
+    </value><value>
+      </value><value>
+        </value><value>
+          </value><value>
+            </value><value> ПРЕКРАСНА КЪЩА! ХУБАВ ДВОР! ДОБЪР ДОСТЪП И ОБКРЪЖЕНИЕ! Предлагаме на вашето внимание стилна нова къща, находяща се в кв. Драгалевц ..., тел.: 0888235063</value><value>
+            </value><value>
+          </value><value>
+          </value><value>
+      </value><value>
+        </value><value>
+          </value><value> </value><value>Добави обявата в моя Бележник</value><value>
+          </value><value> </value><value>Маркиране на обявата</value><value> </value><value>/публикувана вчера/</value><value>
+        </value><value>
+      </value><value>
+      </value><value>
+        </value><value>
+      </value><value>
+    </value><value>
+    </value><value>
+  </value></title></item><item><title><value>
+    </value><value>
+      </value><value>
+        
+      </value><value>
+        </value><value>
+          </value><value> </value><value>
+        </value><value>
+      </value><value>
+      
+      </value><value>
+      </value><value>град София, Драгалевци</value><value>
+      </value><value>98 000 EUR</value><value>
+      </value><value>КЪЩА</value><value>
+      </value><value>140 кв.м</value><value>
+    </value><value>
+    </value><value>
+      </value><value>
+        </value><value>
+          </value><value>
+            </value><value> 3-ти ет., Телефон, Къща в Драгалевци на 3 етажа - ( не съм фирма)   Застроена площ с червена тухла 140 кв.м. Всеки етаж разполага с трифазен ток с от ..., тел.: 0877888884</value><value>
+            </value><value>
+          </value><value>
+          </value><value>
+      </value><value>
+        </value><value>
+          </value><value> </value><value>Добави обявата в моя Бележник</value><value>
+          </value><value> </value><value>Маркиране на обявата</value><value>
+        </value><value>
+      </value><value>
+      </value><value>
+        </value><value>
+      </value><value>
+    </value><value>
+    </value><value>
+  </value></title></item><item><title><value>
+    </value><value>
+      </value><value>
+        
+      </value><value>
+        </value><value>
+          </value><value> </value><value>
+        </value><value>
+      </value><value>
+      
+      </value><value>
+      </value><value>град София, Драгалевци</value><value>
+      </value><value> 226 600 EUR</value><value>
+      </value><value>КЪЩА</value><value>
+      </value><value>325 кв.м</value><value>
+    </value><value>
+    </value><value>
+      </value><value>
+        </value><value>
+          </value><value>
+            </value><value> 3-ти ет., Лок.отопл., НАДГРАДЕНА И НОВОПОСТРОЕНА, ПАНОРАМНА КЪЩА на ГРУБ СТРОЕЖ НА ТРИ  ЕТАЖА в ПОДНОЖИЕТО НА ВИТОША с целогодишен достъп по асфалтов пъ ..., тел.: 02/9880605 АЛДЕС</value><value>
+            </value><value>
+          </value><value>
+          </value><value>
+      </value><value>
+        </value><value>
+          </value><value> </value><value>Добави обявата в моя Бележник</value><value>
+          </value><value> </value><value>Маркиране на обявата</value><value>
+        </value><value>
+      </value><value>
+      </value><value>
+        </value><value>
+      </value><value>
+    </value><value>
+    </value><value>
+  </value></title></item><item><title><value>
+    </value><value>
+      </value><value>
+        
+      </value><value>
+        </value><value>
+          </value><value> </value><value>
+        </value><value>
+      </value><value>
+      
+      </value><value>
+      </value><value>град София, Драгалевци</value><value>
+      </value><value> 259 980 EUR</value><value>
+      </value><value>КЪЩА</value><value>
+      </value><value>260 кв.м</value><value>
+    </value><value>
+    </value><value>
+      </value><value>
+        </value><value>
+          </value><value>
+            </value><value> 3-ти ет., Лок.отопл., АРГУС предлага на Вашето внимание една ИЗГОДНА ПРЕДКОЛЕДНА ОФЕРТА : нова къща с отлична локация и целогодишен достъп от ул. 'Папра ..., тел.: 0878 871 885</value><value>
+            </value><value>
+          </value><value>
+          </value><value>
+      </value><value>
+        </value><value>
+          </value><value> </value><value>Добави обявата в моя Бележник</value><value>
+          </value><value> </value><value>Маркиране на обявата</value><value>
+        </value><value>
+      </value><value>
+      </value><value>
+        </value><value>
+      </value><value>
+    </value><value>
+    </value><value>
+  </value></title></item><item><title><value>
+    </value><value>
+      </value><value>
+        
+      </value><value>
+        </value><value>
+          </value><value> </value><value>
+        </value><value>
+      </value><value>
+      
+      </value><value>
+      </value><value>град София, Драгалевци</value><value>
+      </value><value> 305 000 EUR</value><value>
+      </value><value>КЪЩА</value><value>
+      </value><value>450 кв.м</value><value>
+    </value><value>
+    </value><value>
+      </value><value>
+        </value><value>
+          </value><value>
+            </value><value> 2-ри ет., ПРОСТОРНА и ПРЕКРАСНА КЪЩА с целогодишен достъп по асфалтов път. Разпределение: Кота 0, на равно с терена от южната страна на къща ..., тел.: 088 21 21 450</value><value>
+            </value><value>
+          </value><value>
+          </value><value>
+      </value><value>
+        </value><value>
+          </value><value> </value><value>Добави обявата в моя Бележник</value><value>
+          </value><value> </value><value>Маркиране на обявата</value><value>
+        </value><value>
+      </value><value>
+      </value><value>
+        </value><value>
+      </value><value>
+    </value><value>
+    </value><value>
+  </value></title></item><item><title><value>
+    </value><value>
+      </value><value>
+        
+      </value><value>
+        </value><value>
+          </value><value> </value><value>
+        </value><value>
+      </value><value>
+      
+      </value><value>
+      </value><value>град София, Драгалевци</value><value>
+      </value><value> 190 000 EUR</value><value>
+      </value><value>КЪЩА</value><value>
+      </value><value>144 кв.м</value><value>
+    </value><value>
+    </value><value>
+      </value><value>
+        </value><value>
+          </value><value>
+            </value><value> ул. Лешникова гора, 2-ри ет., МАСИВНА КЪЩА с целогодишен достъп в близост до ул.Лешникова гора. строена през 70-те години. РЗП - 144 кв.м., ЗП - 48 кв.м. С прил ..., тел.: 0899494422 АЛДЕС</value><value>
+            </value><value>
+          </value><value>
+          </value><value>
+      </value><value>
+        </value><value>
+          </value><value> </value><value>Добави обявата в моя Бележник</value><value>
+          </value><value> </value><value>Маркиране на обявата</value><value>
+        </value><value>
+      </value><value>
+      </value><value>
+        </value><value>
+      </value><value>
+    </value><value>
+    </value><value>
+  </value></title></item><item><title><value>
+    </value><value>
+      </value><value>
+        
+      </value><value>
+        </value><value>
+          </value><value> </value><value>
+        </value><value>
+      </value><value>
+      
+      </value><value>
+      </value><value>град София, Драгалевци</value><value>
+      </value><value>Цена при запитване</value><value>
+      </value><value>КЪЩА</value><value>
+      </value><value>435 кв.м</value><value>
+    </value><value>
+    </value><value>
+      </value><value>
+        </value><value>
+          </value><value>
+            </value><value> ул. Мавровец, 'Явлена' представя, двуетажна масивна къща в ж.к. Драгалевци, с РЗП 435 кв.м на изключително и спокойно място. Разпределението е с ..., тел.: 02 8105053</value><value>
+            </value><value>
+          </value><value>
+          </value><value>
+      </value><value>
+        </value><value>
+          </value><value> </value><value>Добави обявата в моя Бележник</value><value>
+          </value><value> </value><value>Маркиране на обявата</value><value>
+        </value><value>
+      </value><value>
+      </value><value>
+        </value><value>
+      </value><value>
+    </value><value>
+    </value><value>
+  </value></title></item><item><title></title></item><item><title><value>
+            </value><value>
+              </value><value>
+                </value><value> </value><value>Маркиране на Всички Обяви</value><value>
+              </value><value>
+              </value><value>
+                </value><value>Преглед и Печат на Маркираните Обяви</value><value>
+                </value><value>
+                </value><value>
+              </value><value>
+            </value><value>
+          </value></title></item><item><title><value>
+            </value><value>
+              </value><value>
+                </value><value>Назад</value><value> </value><value>1</value><value> </value><value>2</value><value> </value><value>3</value><value> </value><value>4</value><value> </value><value>5</value><value> </value><value>6</value><value> </value><value>7</value><value> </value><value>8</value><value> </value><value>9</value><value> </value><value>10</value><value> </value><value>11</value><value> </value><value>12</value><value> </value><value>13</value><value> </value><value>Напред</value><value> 
+              </value><value>
+            </value><value>
+          </value></title></item></items>
